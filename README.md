@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-🤓 I’m currently learning Web Fuck stack development:
+🤓 I’m currently learning Front End development:
 
 - HTML
  - CSS
