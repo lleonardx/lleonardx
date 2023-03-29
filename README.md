@@ -1,8 +1,5 @@
 ### Hi, i'm Leonardo Alves 👋
 
-
-Here are some ideas to get you started:
-
 🤓 I’m currently learning Front End development:
 
 - HTML
@@ -14,3 +11,4 @@ Here are some ideas to get you started:
  - AJAX
  - DOM
 
+ Learning Java for curiosity 
