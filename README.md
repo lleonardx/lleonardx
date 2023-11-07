@@ -4,7 +4,7 @@
 
 🤓 I have knowledge in automation with Python and Cypress.
 
-🌱 I’m currently learning C# and .NET
+🌱 I’m currently learning C# and .NET and Java
  
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=lleonardx&show_icons=true&theme=dracula)
