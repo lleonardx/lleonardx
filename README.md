@@ -2,14 +2,29 @@
 
 > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
-🤓 I have knowledge in automation with Python and Cypress.
 
-🌱 I’m currently learning C# and .NET and Java
- 
+- 📱 I’m currently working on Junior Software Developer
+- 🤓 I have knowledge in automation with Python and Cypress.
+- 🌱 I’m currently learning **C# and .NET and Java**
+- ❤️ Tech lover
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=lleonardx&show_icons=true&theme=dracula)
+<br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardx&layout=compact)](https://github.com/lleonardx/github-readme-stats)
+<div>
+  <a href="https://github.com/lleonardx">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=lleonardx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lleonardx/)
+  <div>
+   
+  <a href="https://www.linkedin.com/in/lleonardx/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lleonard.alves@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  </div>
+
+![Snake animation](https://github.com/diegobpaula/diegobpaula/blob/output/github-contribution-grid-snake.svg)
 
