@@ -4,8 +4,8 @@
 
 
 - 📱 I’m currently working on Junior Software Developer
-- 🤓 I have knowledge in automation with Python and Cypress.
-- 🌱 I’m currently learning **C# and .NET and Java**
+- 🤓 I have knowledge in automation with Java with JUnit and Cypress.
+- 🌱 I’m currently learning **Python and Javascript**
 - ❤️ Tech lover
 
 <br>
