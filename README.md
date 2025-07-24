@@ -11,8 +11,11 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="Python Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg">
   <img alt="Java Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
+   <img alt="Javascript Icon" height="40" width="50" 
+  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
+   <img alt="TypeScript Icon" height="40" width="50" 
+  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg">
 </div>
-
 
 <div>
   <a href="https://github.com/lleonardx">
