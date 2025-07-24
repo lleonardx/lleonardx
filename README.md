@@ -5,7 +5,7 @@
 
 - 📱 I’m currently working on Junior Software Developer
 - 🤓 I have knowledge in automation with Java with JUnit and Cypress.
-- 🌱 I’m currently learning **Python and Javascript**
+- 🌱 I’m currently learning **Javascript**
 - ❤️ Tech lover
 
 <div style="display: flex; align-items: center; gap: 10px;">
