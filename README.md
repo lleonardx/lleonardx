@@ -35,8 +35,6 @@
   &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   &nbsp;&nbsp;&nbsp;
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  &nbsp;&nbsp;&nbsp;
   <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </p>
 
